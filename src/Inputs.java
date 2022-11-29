@@ -17,5 +17,7 @@ public class Inputs {
 
         float marks = in.nextFloat();
         System.out.println(marks);
+
+        boolean booVal = in.nextBoolean();
     }
 }
